@@ -1,5 +1,5 @@
 🖤🖤Hi 👋, I'm Md Abdullah Al Shakib🖤🖤
-                                                  🖤🖤 My previous account is lost🖤🖤
+                               🖤 My Previous Account is Lost🖤
                                                                 
                                                     🖤App Developer (Flutter)🖤
 
