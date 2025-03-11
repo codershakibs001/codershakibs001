@@ -22,8 +22,6 @@ Skills: Dart/Flutter
 
 ⚡ Fun fact I think i am funny
 
-
-![gif4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh0dnNucnV2a2syaWRvd2hzbm1kZWdldWc0Y2VleWh0anQzMzNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iQ9AEDviZrNZh7mgKe/giphy.gif)
 ![gif4](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVsN3Z3bHFkMng1ZHdtZXo1OWg0aHJ5djB3ZDYwdWR2eDlxMWZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iRQ8U9DpBtLl2ZqviC/giphy.gif)
 
 
