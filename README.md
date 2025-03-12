@@ -18,7 +18,7 @@ Skills: Dart/Flutter
 
 💬 Ask me about flutter, dart
 
-📫 How to reach me shakibmohammad18@gmail.com
+📫 How to reach me shakibmohammad18@gmail.com & shakib501886@gmail.com
 
 ⚡ Fun fact I think i am funny
 
