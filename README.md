@@ -10,7 +10,7 @@ Skills: Dart/Flutter
 
 🔭 I’m currently working on Flutter,Dart
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning Flutter, MERN STACK
 
 👯 I’m looking to collaborate on Flutter, Dart
 
