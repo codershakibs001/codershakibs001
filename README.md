@@ -14,11 +14,17 @@ Assalamu Alaikum Orahmatullah, my name is Md Abdullah Al Shakib. I am a flutter 
 
 Skills: Dart/Flutter
 🔭 I’m currently working on Flutter,Dart
+
 🌱 I’m currently learning Flutter, MERN STACK
+
 👯 I’m looking to collaborate on Flutter, Dart
+
 🤝 I’m looking for help with Mern
+
 💬 Ask me about flutter, dart
+
 📫 How to reach me shakibmohammad18@gmail.com & shakib501886@gmail.com
+
 ⚡ Fun fact I think i am funny
 
 <br>
